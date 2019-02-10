@@ -1,2 +1,2 @@
 # tes
-tes repo buat developer
+Testing Repository buat Deveeloper Xenta OS.
